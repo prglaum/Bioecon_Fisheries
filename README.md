@@ -1,5 +1,6 @@
 # Bioecon_Fisheries.
 Code used in "Integrating Economic dynamics into Ecological Networks: The case of fishery sustainability"
+https://www.science.org/doi/10.1126/sciadv.aaz4891 
 Example Code Tutorial:
 Description of the example code used in the set up and simulation of each treatment type.
 Valentin Cocco (valentin.cocco@ens.fr) and Paul Glaum (prglaum@umich.edu)
